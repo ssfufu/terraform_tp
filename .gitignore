@@ -10,7 +10,6 @@
 **/crash.*.log
 
 # Exclude all .tfvars files
-**/*.tfvars
 **/*.tfvars.json
 
 # Ignore override files
